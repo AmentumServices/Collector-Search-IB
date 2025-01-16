@@ -1,4 +1,4 @@
-name: Atlassian Support IB Collector
+name: Search IB Collector
 run-name: ${{ github.actor }} is Collecting 🚀
 on:
   push:
